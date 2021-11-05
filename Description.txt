@@ -1,0 +1,2 @@
+Categorical data analysis is the analysis of data where the response variable has been grouped into a set of mutually exclusive ordered (such as age group) or unordered (such as eye color) categories.
+Here is the churn prediction that has been used to draw the plots
